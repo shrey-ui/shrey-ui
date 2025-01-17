@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyans Murkute</h1>
 <h3 align="center">All things ML/AI</h3>
 
-- 🔭 I’m currently working on **briding ESG with AI**
+- 🔭 I’m currently working on **solving ESG with AI**
 
 - 👯 I’m looking to collaborate on **any type of AI engineering**
 
-- 💬 Ask me about **PyTorch, Deep Learning, Transformers, RAG**
+- 💬 Ask me about **PyTorch, Deep Learning, Transformers, RAG, Agents**
 
 - 📫 How to reach me **smurkute2001@gmail.com**
 
